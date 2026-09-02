@@ -1,0 +1,12 @@
+Physics Insight AI — Screenshot Checklist
+=============================================
+
+1. 01_homepage.png
+2. 02_dataset_summary.png
+3. 03_statistics.png
+4. 04_interactive_visualization.png
+5. 05_correlation_analysis.png
+6. 06_anomaly_analysis.png
+7. 07_physics_model_analysis.png
+8. 08_scientific_insights.png
+9. 09_professional_report.png
